@@ -1,0 +1,3 @@
+/home/bango/BanRec/bulid/CMakeFiles/BanRec.dir
+/home/bango/BanRec/bulid/CMakeFiles/edit_cache.dir
+/home/bango/BanRec/bulid/CMakeFiles/rebuild_cache.dir

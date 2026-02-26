@@ -1,0 +1,1 @@
+gcc CMakeFiles/BanRec.dir/main.c.o CMakeFiles/BanRec.dir/core/rec_core.c.o CMakeFiles/BanRec.dir/core/rec_err_handle.c.o CMakeFiles/BanRec.dir/api/rec_test.c.o CMakeFiles/BanRec.dir/interface/rec_interface.c.o CMakeFiles/BanRec.dir/hal/play/play.c.o CMakeFiles/BanRec.dir/hal/input_handle/input_handle.c.o -o BanRec  -lev -lasound -lm 
